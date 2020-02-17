@@ -1,0 +1,21 @@
+{
+  "palabras": [
+    {
+      "id": 1,
+      "categoriaID": 1,
+      "palabra": "computadora"
+    },
+    {
+      "id": 2,
+      "categoriaID": 1,
+      "palabra": "laptop"
+    }
+  ]
+  
+  "Categorias": [
+    {
+      "id" : 1
+      "categoria" : "tecnología" 
+    }
+  ]
+}
