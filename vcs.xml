@@ -6,7 +6,12 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="Felixx26" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://20186476@dev.azure.com/20186476/Hands%20Up/_git/Hands%20Up" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
+    <option name="cloneParentDir" value="C:\Users\felix\AndroidStudioProjects" />
   </component>
 </application>
